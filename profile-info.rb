@@ -7,7 +7,7 @@ food_arr = ["suchi", "BBQ", "taco", "spicy fish", "pho"]
    puts "my city: #{info_hash[:city]}"
    puts "my country: #{info_hash[:country]}"
    print "my favoriate food:"
-   food_arr.each {|values| print "#{values}, "}
+   food_arr.each {|values| print "#{values}  "}
    end
 puts "Welcome to Gracie's profile!"
 puts "Now I will give you my simple info."
